@@ -12,7 +12,7 @@ function App() {
     <div>
       <h1>Uday Cart</h1>
       <input
-        placeholder="Search Cart"
+        placeholder="Search About Products"
         value={search}
         onChange={(e) => setSearch(e.target.value)}
       />
