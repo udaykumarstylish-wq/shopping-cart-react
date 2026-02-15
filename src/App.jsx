@@ -10,7 +10,7 @@ function App() {
 
   return (
     <div>
-      <h1>Shopping Cart</h1>
+      <h1>Uday Cart</h1>
       <input
         placeholder="Search Product"
         value={search}
